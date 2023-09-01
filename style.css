@@ -153,7 +153,7 @@ h2 {
   
   
   
-  
+  grid-template-columns: repeat(auto-fit, minmax(380px, auto));
   
   
   display: flex;
